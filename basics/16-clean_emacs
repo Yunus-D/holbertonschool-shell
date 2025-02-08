@@ -1,2 +1,2 @@
 #!/bin/bash
-rm /holbertonschool-shell/basics/emacs/*~
+rm /holbertonschool-shell/emacs/*~
